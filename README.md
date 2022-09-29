@@ -1,4 +1,4 @@
-# Clon de Pagina web Silicom-Misiones - Responsive
+# Clon Pagina web Silicom-Misiones - Responsive
 
 ## Realizado por Rodriguez L. Martin
 
